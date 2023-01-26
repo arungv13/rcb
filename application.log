@@ -1,0 +1,7 @@
+2023-01-26 20:47:16,525  INFO [main] WicketKeepers:19 - ************Method 'getForeignPlayersCount' executed, and returned the value: 4************
+2023-01-26 20:47:16,530  INFO [main] WicketKeepers:20 - ************Method 'getWicketKeepersCount' executed, and returned the value: 1************
+2023-01-26 20:47:16,580 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2023-01-26 20:47:16,582 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2023-01-26 20:47:16,584 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-01-26 20:47:16,586 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-01-26 20:47:16,586 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Arun%20G%20V/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
